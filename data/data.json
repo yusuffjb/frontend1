@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Yusuff",
+        "id": "01",
+        "type": "Admin",
+        "createdBy": "Admin",
+        "lastAccessedTime": "2023-07-01 10:30 AM",
+        "contactNo": "123456789",
+        "emailId": "yusuff@gmail.com"
+    },
+    {
+        "name": "Sheriff",
+        "id": "02",
+        "type": "User",
+        "createdBy": "user01",
+        "lastAccessedTime": "2023-07-02 02:00 PM",
+        "contactNo": "123456789",
+        "emailId": "sheriff2gmail.com"
+    },
+    {
+        "name": "Aravind",
+        "id": "03",
+        "type": "User",
+        "createdBy": "user02",
+        "lastAccessedTime": "2023-07-03 03:45 PM",
+        "contactNo": "123456789",
+        "emailId": "aravind@gmail.com"
+    },
+    {
+        "name": "Ram",
+        "id": "04",
+        "type": "User",
+        "createdBy":"user03",
+        "lastAccessedTime": "2023-07-03 04:05 PM",
+        "contactNo": "123456789",
+        "emailId": "ram@gmail.com"
+    }   
+]
